@@ -1,2 +1,2 @@
-# CS4001-Workshop
+# JavaSript Workshop
 This is my first Git Repository
